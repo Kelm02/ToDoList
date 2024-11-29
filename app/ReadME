@@ -1,0 +1,19 @@
+Todo list app features list 
+
+- User Authentication   
+    JWT token
+
+- Todo Managment
+    Add, Edit, Delete, Mark Complete
+
+- List Filtering and Sorting
+    All, Active, Completed, Priority 
+
+- Error Handling
+    Unauthorized 401, invalid 400, not found 404
+
+- Responsive design
+    will look fine on mobile browsers
+    
+- Authentication and API Security
+    JWT Middleware
